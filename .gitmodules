@@ -1,0 +1,3 @@
+[submodule "Plugin/CakePtbr"]
+	path = Plugin/CakePtbr
+	url = git@github.com:TiuTalk/cake_ptbr.git
